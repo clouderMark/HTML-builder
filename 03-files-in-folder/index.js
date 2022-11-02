@@ -1,6 +1,4 @@
-// const { readdir } = require('fs').promises;
 const path = require('path');
-// const { resolve } = require('path');
 const fs = require('fs').promises;
 
 const { stdout } = process;
